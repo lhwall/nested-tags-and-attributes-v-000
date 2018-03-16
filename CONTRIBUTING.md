@@ -36,4 +36,4 @@ out-dated information, to improving exposition, to adding better examples,
 to fixing tests—all contributions to making the curriculum more effective are
 welcome.
 
-<! -- I have to 
+I have to make a change to pass this lab so here it is.
